@@ -1,0 +1,23 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-ahmed-muhamed-2:ahmed-muhamed-2/jsDOM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "home": "https://ahmed-muhamed-2.github.io/jsDOM/",
+  "devDependencies": {
+    "uglify-js": "^3.4.9"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
